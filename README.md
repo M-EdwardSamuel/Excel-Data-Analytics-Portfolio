@@ -6,7 +6,7 @@ A collection of professional Business Intelligence dashboards built using Excel.
 
 ## 1. E-Commerce Sales Analysis
 **Key Features:** Geographic Map Charting, Waterfall Profit Analysis, and YOY Growth KPIs.
-![E-Commerce Dashboard](./EcommerceSalesAnalysisDashboard.jpg)
+![E-Commerce Dashboard](./EcommerceSalesAnalysisDashboard.png)
 
 ---
 
